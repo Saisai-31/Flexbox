@@ -4,7 +4,7 @@
  }
  ul{
     width: 100vW;
-    height: 100vh;
+    height: fit-content;
     display: flex;
     flex-wrap: wrap;
     color: white;
