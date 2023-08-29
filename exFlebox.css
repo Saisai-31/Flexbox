@@ -1,0 +1,491 @@
+*{
+
+   
+}
+/* 1. En utilisant la technologie flexbox, coder pour obtenir cette page web */
+.papa{ 
+    display: flex;
+    justify-content: flex-start;
+    background-color: lightgray;
+    height: 50px;
+    width: 100 vw;
+}
+.con1{
+    background-color: pink;
+    margin: 0;
+    width: 10vw;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.con2{
+    background-color: yellow;
+    margin: 0;
+    width: 10vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.con3{
+    background-color: green;
+    margin: 0;
+    width: 10vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* 2. Donner le code html css ayant permis d’obtenir le résultat ci-après */
+.papa2{ 
+    display: flex;
+  justify-content: flex-end;
+    background-color: lightgray;
+    height: 50px;
+    width: 100 vw;
+}
+.con4{
+    background-color: pink;
+    margin: 0;
+    width: 10vw;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.con5{
+    background-color: yellow;
+    margin: 0;
+    width: 10vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.con6{
+    background-color: green;
+    margin: 0;
+    width: 10vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* 3. Quel est le code du résultat suivant */
+.papa3{ 
+    display: flex;
+    justify-content: center;
+    background-color: lightgray;
+    height: 50px;
+    width: 100 vw;
+}
+.con7{
+    background-color: pink;
+    margin: 0;
+    width: 10vw;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.con8{
+    background-color: yellow;
+    margin: 0;
+    width: 10vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.con9{
+    background-color: green;
+    margin: 0;
+    width: 10vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* 4. Donner le code de la page suivante */
+.papa4{ 
+    display: flex;
+    justify-content: space-between;
+    background-color: lightgray;
+    height: 50px;
+    width: 100 vw;
+}
+.con10{
+    background-color: pink;
+    margin: 0;
+    width: 10vw;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.con11{
+    background-color: yellow;
+    margin: 0;
+    width: 10vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.con12{
+    background-color: green;
+    margin: 0;
+    width: 10vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* 5. Coder pour obtenir le résultat */
+.papa5{ 
+    display: flex;
+    justify-content: space-around;
+    background-color: lightgray;
+    height: 50px;
+    width: 100 vw;
+}
+.con13{
+    background-color: pink;
+    margin: 0;
+    width: 10vw;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.con14{
+    background-color: yellow;
+    margin: 0;
+    width: 10vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.con15{
+    background-color: green;
+    margin: 0;
+    width: 10vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* 6. Quel est le code ayant permis l’obtention du résultat suivant */
+.papa6{ 
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+    background-color: lightgray;
+    height: 12vh;
+    width: 100 vw;
+}
+.con16{
+    background-color: pink;
+    margin: 0;
+    /* width: 10vw; */
+    height: 4vh;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    padding-left: 10px;
+}
+.con17{
+    background-color: yellow;
+    margin: 0;
+    height: 4vh;
+    /* width: 10vw; */
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    padding-left: 10px;
+}
+.con18{
+    background-color: green;
+    margin: 0;
+    height: 4vh;
+    /* width: 10vw; */
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    padding-left: 10px;
+}
+/* 7. Quelle est la propriété css, ajoutée au code précédent a permis d’obtenir cet
+affichage ? */
+.papa7{ 
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+    background-color: lightgray;
+    height: 24vh;
+    width: 100 vw;
+}
+.con19{
+    background-color: pink;
+    margin: 0;
+    /* width: 10vw; */
+    height: 4vh;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    padding-left: 10px;
+}
+.con20{
+    background-color: yellow;
+    margin: 0;
+    height: 4vh;
+    /* width: 10vw; */
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    padding-left: 10px;
+}
+.con21{
+    background-color: green;
+    margin: 0;
+    height: 4vh;
+    /* width: 10vw; */
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    padding-left: 10px;
+}
+/* 8. Quelle est la propriété css, appliquée au code précédent a permis d’obtenir cet
+affichage ? */
+.papa8{ 
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    background-color: lightgray;
+    height: 24vh;
+    width: 100vw;
+}
+.con22{
+    background-color: pink;
+    margin: 0;
+    /* width: 10vw; */
+    height: 4vh;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    padding-left: 10px;
+}
+.con23{
+    background-color: yellow;
+    margin: 0;
+    height: 4vh;
+    /* width: 10vw; */
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    padding-left: 10px;
+}
+.con24{
+    background-color: green;
+    margin: 0;
+    height: 4vh;
+    /* width: 10vw; */
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    padding-left: 10px;
+}
+/* 9. Quelle est la propriété css, appliquée au code précédent a permis d’obtenir cet
+affichage ? */
+.papa9{ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: lightgray;
+    height: 24vh;
+    width: 100vw;
+}
+.con25{
+    background-color: pink;
+    margin: 0;
+    /* width: 10vw; */
+    height: 4vh;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    padding-left: 10px;
+}
+.con26{
+    background-color: yellow;
+    margin: 0;
+    height: 4vh;
+    /* width: 10vw; */
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    padding-left: 10px;
+}
+.con27{
+    background-color: green;
+    margin: 0;
+    height: 4vh;
+    /* width: 10vw; */
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    padding-left: 10px;
+}
+/* 10.Quelle est la propriété css, appliquée au code précédent a permis d’obtenir cet
+affichage ? */
+.papa10{ 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: lightgray;
+    height: 24vh;
+    width: 100vw;
+}
+.con28{
+    background-color: pink;
+    margin: 0;
+    /* width: 10vw; */
+    height: 4vh;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    padding-left: 10px;
+}
+.con29{
+    background-color: yellow;
+    margin: 0;
+    height: 4vh;
+    /* width: 10vw; */
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    padding-left: 10px;
+}
+.con30{
+    background-color: green;
+    margin: 0;
+    height: 4vh;
+    /* width: 10vw; */
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    padding-left: 10px;
+}
+/* 11.Quelle est la propriété css, appliquée au code précédent a permis d’obtenir cet
+affichage? */
+.papa11{ 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: lightgray;
+    height: 24vh;
+    width: 100vw;
+}
+.con31{
+    background-color: pink;
+    margin: 0;
+    /* width: 10vw; */
+    height: 4vh;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    padding-left: 10px;
+}
+.con32{
+    background-color: yellow;
+    margin: 0;
+    height: 4vh;
+    /* width: 10vw; */
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    padding-left: 10px;
+}
+.con33{
+    background-color: green;
+    margin: 0;
+    height: 4vh;
+    /* width: 10vw; */
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    padding-left: 10px;
+}
+/* 13.En utilisant la technologie flexbox, coder pour obtenir cette page web */
+.fruit{
+    display: flex;
+    margin: auto;
+    border: 5px solid darkmagenta;
+    border-radius: 10px;
+    width: 800px;
+    height: 80px;
+}
+    
+.legume{
+    display: flex;
+    border: 2px solid purple;
+    background-color: pink;
+    justify-content: stretch;
+    width: 300px;
+    height: 45px;
+    align-items: center;
+    padding: 10px;
+}
+.tomate{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+.cerise{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.pomme{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
+/* 14.En utilisant la technologie flexbox, coder pour obtenir cette page web */
+.parent{
+    display: flex;
+    justify-content: flex-start;
+    margin: auto;
+    border: 5px solid darkmagenta;
+    width: 925px;
+   flex-wrap: wrap;
+    
+}
+.vetement{
+    display: flex;
+    border: 2px solid purple;
+    background-color: pink;
+    width: 300px;
+    height: 60px;   
+    align-items: center; 
+}
+.haut{
+    margin-top: 5px;
+}
+.bas{
+    margin-bottom: 5px;
+}
+.gauche{
+    margin-left: 5px;
+}
+.droite{
+    margin-right: 5px;
+}
+/* 15.Donner le code html css avec flexbox ayant permis l’obtention du résultat
+responsive suivant */
+.dernier{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+.der{
+   height: 40px;
+   width: 200px;
+}
+
+
+
+
+
+
+
+
